@@ -12,7 +12,7 @@ Cada sección del CV está representada por un componente independiente dentro d
 
 ## Captura de pantalla
 
-![alt text](image-1.png)
+![Captura del CV](image-1.png)
 
 ## Instrucciones para ejecutar el proyecto
 
